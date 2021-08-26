@@ -9,4 +9,5 @@ third --> git commit -m 'comment'
 fourth --> git log    
 finally --> git push    
 
+git difftool HEAD --> allow the difference version of the files 
 
