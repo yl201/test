@@ -1,4 +1,4 @@
-# test
+# Github Beginner Tutorial push/add/
 rest repo for git command demonstration   
 LF will be replaced by CRLF in git - What is that and is it important? [duplicate]    
 git config core.autocrlf true #use this command when necessary    
