@@ -11,3 +11,10 @@ finally --> git push
 
 git difftool HEAD --> allow the difference version of the files 
 
+
+You use git clone to fetch a specific branch.   
+You use git checkout when you want to switch to a specific branch you've previously fetched.    
+You use git pull when you want to fetch the latest changes on that branch.    
+This allows you to get updates made by someone else on the branch.    
+
+
